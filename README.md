@@ -1,5 +1,5 @@
 # Parameterized Component Storage
-Cups for storing small components within a larger box. Totally parameterized to fit any (rectangular) situation.
+Cups for storing small components within a larger box. Designed to be 3D printed and totally parameterized to fit any (rectangular) situation.
 The cups can be stacked in an arbitrary number of layers within the box.
 
 ## Goal
