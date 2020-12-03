@@ -1,5 +1,6 @@
 # Parameterized Component Storage
-Cups/boxes/drawers for storing small components within a larger box. Totally parameterized to fit any (rectangular) situation.
+Cups for storing small components within a larger box. Totally parameterized to fit any (rectangular) situation.
+The cups can be stacked in an arbitrary number of layers within the box.
 
 ## Goal
 - Provide a universal solution for storing arbitrarily sized components in arbitrarily sized boxes
