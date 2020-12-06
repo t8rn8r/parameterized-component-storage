@@ -11,10 +11,26 @@ The cups can be stacked in an arbitrary number of layers within the box.
 I have a lot of tools, electronic components, and mechanical parts to store, but I don't want to buy a bunch of dedicated containers when I'm already drowing in boxes from 3D printer filament and Amazon packages. In the spirit of reducing, reusing, and recycling, made these little cups to store my things more efficiently without generating more waste. 
 
 ## Instructions
+
+### Print from .f3d file
 1. Download the .f3d file.
 1. Open the .f3d file in Fusion 360.
 1. Open the parameter editor (Modify > Change Parameters).
+1. Modify the parameters to your needs (see below).
+1. Export as .sdl file.
+1. Open in Cura.
+1. Download the Cura profile.
+1. Import the Cura profile, make adjustments as you see fit. 
+1. Print!
 
+### Print from .stl files
+1. Download desired .stl file.
+1. Opn in Cura.
+1. Download the Cura profile.
+1. Import the Cura profile, make adjustments as you see fit.
+1. Print!
+
+## Modifying parameters
 ### Starred Parameter Values
 The starred parameters are the most relevant for most applications. 
 - `boxiw`, `boxil`, and `boxih` are the larger container's internal width, length, and height respectively.
