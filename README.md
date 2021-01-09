@@ -45,7 +45,6 @@ The starred parameters are the most relevant for most applications.
 Just play with them until you get the result you want. I don't guarantee they will actually work. 
 
 ## Examples
-![Image of Stack of Cups](https://github.com/t8rn8r/parameterized-component-storage/blob/main/pictures/stack.jpg)
 ![Image of Cups](https://github.com/t8rn8r/parameterized-component-storage/blob/main/pictures/8x8x6%20(2).jpg)
 ![Image of Cups](https://github.com/t8rn8r/parameterized-component-storage/blob/main/pictures/8x8x6%20(3).jpg)
 ![Image of Cups](https://github.com/t8rn8r/parameterized-component-storage/blob/main/pictures/8x8x6%20(4).jpg)
