@@ -25,7 +25,7 @@ I have a lot of tools, electronic components, and mechanical parts to store, but
 
 ### Print from .stl files
 1. Download desired .stl file.
-1. Opn in Cura.
+1. Open in Cura.
 1. Download the Cura profile.
 1. Import the Cura profile, make adjustments as you see fit.
 1. Print!
