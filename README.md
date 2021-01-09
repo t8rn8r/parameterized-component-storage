@@ -1,8 +1,8 @@
-![Image of Cups](https://github.com/t8rn8r/parameterized-component-storage/blob/main/pictures/stack%20(2).jpg)
-
 # Parameterized Component Storage
 Cups for storing small components within a larger box. Designed to be 3D printed and totally parameterized to fit any (rectangular) situation.
 The cups can be stacked in an arbitrary number of layers within the box.
+
+![Image of Cups](https://github.com/t8rn8r/parameterized-component-storage/blob/main/pictures/stack%20(2).jpg)
 
 ## Goal
 - Provide a universal solution for storing arbitrarily sized components in arbitrarily sized boxes
