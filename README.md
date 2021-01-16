@@ -17,7 +17,7 @@ I have a lot of tools, electronic components, and mechanical parts to store, but
 1. Open the .f3d file in Fusion 360.
 1. Open the parameter editor (Modify > Change Parameters).
 1. Modify the parameters to your needs (see below).
-1. Export as .sdl file.
+1. Export as .stl file.
 1. Open in Cura.
 1. Download the Cura profile.
 1. Import the Cura profile, make adjustments as you see fit. 
