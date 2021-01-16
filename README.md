@@ -36,7 +36,7 @@ The starred parameters are the most relevant for most applications.
 - `boxiw`, `boxil`, and `boxih` are the larger container's internal width, length, and height respectively.
   - Note that the width is the dimension along which the handles will be made.
   - The default values fit my 3D printer filament boxes very well.
-- `cumnumw`, `cupnuml`, and `cupnumh` are the number of cups to make along the width, length, and heigh respectively.
+- `cupnumw`, `cupnuml`, and `cupnumh` are the number of cups to make along the width, length, and height respectively.
   - In principle, the internal dimensions of the box will be divided evenly amongst all the cups in each direction (although this is not entirely true).
   - By dividing in this manner, one can ensure that cups of varying dimensions all fit within the same box. 
 - `thick` is the thickness of all the walls and the handle of the cups. 
